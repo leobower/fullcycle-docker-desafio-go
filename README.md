@@ -6,7 +6,7 @@ Repositório para publicação da resolução do desafio proposto no curso Full 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. 
 
-- Quando executarmos: docker run leobower/fullcycle
+- Quando executarmos: docker run user/fullcycle
 - Temos que ter o seguinte resultado: Full Cycle Rocks!!
 - A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
