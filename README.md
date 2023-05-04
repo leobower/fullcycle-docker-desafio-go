@@ -12,10 +12,6 @@ Você terá que publicar uma imagem no docker hub.
 
  [IMAGEM NO DOCKERHUB](https://hub.docker.com/repository/docker/leobower/fullcycle/general)
   
- # Build #
-```
-docker build -t leobower/fullcycle .
-```
 # Pull #
 ```
 docker pull leobower/fullcycle
