@@ -7,8 +7,7 @@ COPY . .
 RUN go build -o /hello hello.go
 
 
-## Deploy
-## Strach base debian, serve para imagens super mínimas(Que contém apenas um único binários)
+## O comando scratch serve para imagens mínimas, com apenas um binário
 FROM scratch
 
 WORKDIR /
