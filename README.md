@@ -20,8 +20,8 @@ docker pull leobower/fullcycle
 ```
 docker run --rm leobower/fullcycle
  ```
- 
- ├── src
+```bash
+├── src
 │   ├── controller
 │   │   ├── **/*.css
 │   ├── views
@@ -55,3 +55,4 @@ docker run --rm leobower/fullcycle
 ├── package.json
 ├── package-lock.json 
 └── .gitignore
+```
